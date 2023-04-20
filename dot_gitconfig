@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+	name = alexravenna
+	email = alex.n.ravenna@gmail.com
+	signingkey = C6BFE9424B422C26
+[commit]
+	gpgsign = true
+[log]
+	showSignature = true
+[push]
+	autoSetupRemote = true
+[init]
+	defaultBranch = main
