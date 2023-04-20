@@ -1,0 +1,14 @@
+Host *
+    AddKeysToAgent yes
+
+Host github-alexravenna
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519_alexravenna
+    IdentitiesOnly yes
+
+Host github-brickbuilder6
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519_brickbuilder6
+    IdentitiesOnly yes
