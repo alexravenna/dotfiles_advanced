@@ -1,0 +1,10 @@
+dotnet 7.0.102
+rust 1.67.0
+dart 2.19.1
+flutter 3.7.1-stable
+kotlin 1.8.10
+emsdk 3.1.31
+pnpm 7.29.1
+nodejs lts
+git 2.40.0
+chezmoi 2.33.1
