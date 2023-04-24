@@ -26,3 +26,5 @@ end
 
 # Call the function to run it.
 loadsshkeys
+
+export LS_COLORS="$(vivid generate molokai)"
