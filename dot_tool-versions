@@ -8,3 +8,7 @@ pnpm 7.29.1
 nodejs lts
 git 2.40.0
 chezmoi 2.33.1
+bat 0.23.0
+fd 8.7.0
+starship 1.14.2
+yarn 1.22.19
