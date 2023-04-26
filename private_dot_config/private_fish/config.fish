@@ -29,3 +29,5 @@ loadsshkeys
 
 # Generate new colors for the shell using a vivid theme
 export LS_COLORS="$(vivid generate molokai)"
+
+export COLORTERM="truecolor"
